@@ -76,3 +76,17 @@ excel-dashboard-analysis/
     ├── revenue_by_state.png
     ├── product_sales_by_year.png
     └── product_revenue_summary.png
+
+---
+
+## Project File
+The complete interactive Excel dashboard workbook is included in this repository:
+
+- `Excel_Dashboard_Analysis.xlsx`
+
+---
+
+## Author
+Momodu Sadiq Favour
+
+Data Analyst | Data Scientist | Business Intelligence Enthusiast
